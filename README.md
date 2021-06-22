@@ -1,3 +1,3 @@
 # VBA-_WallStreet
 THis is to group the stocks by year along with the change in prices.
-![alt text](https://weneedfun.com/wp-content/uploads/2015/10/Cute-puppy-Pictures-21.jpg)
+![alt text](https://github.com/Subbagari1985/VBA-_WallStreet/blob/main/2014%20Results.PNG)
