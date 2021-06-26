@@ -5,9 +5,13 @@ Based on the Open and Close Price of the stocks and volume of the stock, Busines
 
 # Process
 For each stock, 
+
     Get the  Open Price at the beginning of the year, Get the Close price at the end of the year.
+    
     Calculate Yearly change by substracting open price from close price.
+    
     Calculate sum of all the volume from the beginning to the end of the year.
+    
 Create the headers for greatest Min, greatest Max and Greatest total
 Calculate the greatest Min across all stocks
 Calculate the greatest Max across all stocks
